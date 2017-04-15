@@ -1,5 +1,5 @@
 # ESP8266_ILI9328_spiffs_jpeg
-ESP8266 + ILI9328でjpeg画像表示テスト。描画速度が遅く実用にはならない。
+ESP8266 + ILI9328でjpeg画像ファイル表示テスト。描画速度が遅く実用にはならない。
 
 ### 使用した物 ###
 * [ESPr Developer（ESP-WROOM-02開発ボード）](https://www.switch-science.com/catalog/2500/ "Title") 
@@ -25,7 +25,7 @@ ILI9328　　　ESPr Developer<br>
  1. ILI9328 DriverとJPEG decoderライブラリをインストールします。
  2. ILI9328 Driver Libraryに修正を加えます。<br>
 ![画像1](images/image1.png)<br><br>
-![画像2](images/image1.png)<br><br>
+![画像2](images/image2.png)<br><br>
  3. SPIFFSファイルシステムアップローダーをインストールします。<br>
 ここを参考にしてください。<https://www.mgo-tec.com/spiffs-filesystem-uploader01-html><br>
  4. スケッチをコンパイルしてESPr Developerに書き込みます。
