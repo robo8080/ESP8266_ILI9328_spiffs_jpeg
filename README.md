@@ -1,5 +1,6 @@
 # ESP8266_ILI9328_spiffs_jpeg
-ESP8266 + ILI9328でjpeg画像ファイル表示テスト。描画速度が遅く実用にはならない。
+ESP8266 + ILI9328で、ESP8266のSPIFFSに置いたjpeg画像ファイルの表示テスト。<br>
+描画速度が遅く実用にはならない。<br>
 
 ### 使用した物 ###
 * [ESPr Developer（ESP-WROOM-02開発ボード）](https://www.switch-science.com/catalog/2500/ "Title") 
