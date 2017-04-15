@@ -1,0 +1,2 @@
+# ESP8266_ILI9328_spiffs_jpeg
+jpeg画像表示テスト。描画速度が遅く
