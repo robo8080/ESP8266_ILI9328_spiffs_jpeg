@@ -6,7 +6,7 @@ ESP8266 + ILI9328でjpeg画像表示テスト。描画速度が遅く実用に�
 * [aitendo ILI9328/SPI液晶モジュール](http://www.aitendo.com/product/10944 "Title") 
 * [ILI9328 Driver Library for Arduino](https://github.com/coord-e/ili9328SPI "Title") 
 * [JPEG decoder library](https://github.com/Bodmer/JPEGDecoder "Title") 
-* [SPIFFSファイルシステムアップローダー](<https://github.com/esp8266/arduino-esp8266fs-plugin "Title")<br>
+* [SPIFFSファイルシステムアップローダー](https://github.com/esp8266/arduino-esp8266fs-plugin "Title")<br>
 
 ### 接続 ###
 ILI9328　　　ESPr Developer<br>
