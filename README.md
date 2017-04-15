@@ -17,7 +17,6 @@ ILI9328　　　ESPr Developer<br>
 `D_SDI-----GPIO13` <br>
 `D_SCK-----GPIO14` <br>
 `D_LED-----GND` <br>
-`D_SDO-----GPIO12` <br>
 
 
 
